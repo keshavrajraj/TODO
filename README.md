@@ -33,6 +33,10 @@ Develop User registration module implementation
 Develop a Login module implementation
 Develop a Todo CRUD operations implementation
 
+
+Controller Layer - TodoController
+This servlet acts as a page controller for the application, handling all requests from the todo. This TodoController class to process HTTP request parameters and redirect to the appropriate JSP page after request data stored in the database
+
 What we will build?
 We build a Todo web application using JSP, Servlet, JDBC and HSQL database.
 
